@@ -7,4 +7,11 @@
 	<section name="solutionSelectionDialog">
 		<item key="applyScope" value="1"/>
 	</section>
+	<section name="com.tomato.exerd.handler.Helper.FindTableDialog2">
+		<item key="DIALOG_X_ORIGIN" value="603"/>
+		<item key="DIALOG_Y_ORIGIN" value="294"/>
+		<item key="DIALOG_WIDTH" value="235"/>
+		<item key="DIALOG_HEIGHT" value="234"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
 </section>
